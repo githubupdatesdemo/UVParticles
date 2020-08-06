@@ -73,7 +73,7 @@
           "GameobjectName": "5",
           "Is_Preimum": "0",
           "Theme_Bundle": "General/NeonMusic/NeonMusic.zip",
-          "Bundle_Size": "40411",
+          "Bundle_Size": "94128",
           "Thumnail_Small": "General/NeonMusic/NeonMusic.png",
           "is_From_Asset": false
         },
@@ -85,7 +85,7 @@
           "GameobjectName": "7",
           "Is_Preimum": "0",
           "Theme_Bundle": "General/SpeakerMusic/SpeakerMusic.zip",
-          "Bundle_Size": "",
+          "Bundle_Size": "69965",
           "Thumnail_Small": "General/SpeakerMusic/SpeakerMusic.png",
           "is_From_Asset": false
         },
@@ -97,7 +97,7 @@
           "GameobjectName": "8",
           "Is_Preimum": "0",
           "Theme_Bundle": "General/SpectrumFun/SpectrumFun.zip",
-          "Bundle_Size": "",
+          "Bundle_Size": "42980",
           "Thumnail_Small": "General/SpectrumFun/SpectrumFun.png",
           "is_From_Asset": false
         }
@@ -361,7 +361,7 @@
           "GameobjectName": "103",
           "Is_Preimum": "0",
           "Theme_Bundle": "SmokeMagic.zip",
-          "Bundle_Size": "177241",
+          "Bundle_Size": "177436",
           "Thumnail_Small": "SmokeMagic.png",
           "is_From_Asset": true
         },
@@ -373,7 +373,7 @@
           "GameobjectName": "101",
           "Is_Preimum": "0",
           "Theme_Bundle": "Smoke/ColorfulSmoke/ColorfulSmoke.zip",
-          "Bundle_Size": "177241",
+          "Bundle_Size": "124239",
           "Thumnail_Small": "Smoke/ColorfulSmoke/ColorfulSmoke.png",
           "is_From_Asset": false
         },
@@ -385,7 +385,7 @@
           "GameobjectName": "102",
           "Is_Preimum": "0",
           "Theme_Bundle": "Smoke/PinkySmoke/PinkySmoke.zip",
-          "Bundle_Size": "177241",
+          "Bundle_Size": "112675",
           "Thumnail_Small": "Smoke/PinkySmoke/PinkySmoke.png",
           "is_From_Asset": false
         }
@@ -403,7 +403,7 @@
           "GameobjectName": "61",
           "Is_Preimum": "0",
           "Theme_Bundle": "Ganesha.zip",
-          "Bundle_Size": "131468",
+          "Bundle_Size": "131657",
           "Thumnail_Small": "Ganesha.png",
           "is_From_Asset": true
         },
@@ -415,7 +415,7 @@
           "GameobjectName": "62",
           "Is_Preimum": "0",
           "Theme_Bundle": "God/Hanuman/Hanuman.zip",
-          "Bundle_Size": "131468",
+          "Bundle_Size": "45208",
           "Thumnail_Small": "God/Hanuman/Hanuman.png",
           "is_From_Asset": false
         },
@@ -427,7 +427,7 @@
           "GameobjectName": "63",
           "Is_Preimum": "0",
           "Theme_Bundle": "God/Krishna/Krishna.zip",
-          "Bundle_Size": "131468",
+          "Bundle_Size": "180451",
           "Thumnail_Small": "God/Krishna/Krishna.png",
           "is_From_Asset": false
         },
@@ -439,7 +439,7 @@
           "GameobjectName": "64",
           "Is_Preimum": "0",
           "Theme_Bundle": "God/Ram/Ram.zip",
-          "Bundle_Size": "131468",
+          "Bundle_Size": "66363",
           "Thumnail_Small": "God/Ram/Ram.png",
           "is_From_Asset": false
         },
@@ -451,7 +451,7 @@
           "GameobjectName": "65",
           "Is_Preimum": "0",
           "Theme_Bundle": "God/Shiv/Shiv.zip",
-          "Bundle_Size": "131468",
+          "Bundle_Size": "311397",
           "Thumnail_Small": "God/Shiv/Shiv.png",
           "is_From_Asset": false
         },
@@ -463,7 +463,7 @@
           "GameobjectName": "",
           "Is_Preimum": "0",
           "Theme_Bundle": "God/Shree/Shree.zip",
-          "Bundle_Size": "131468",
+          "Bundle_Size": "162517",
           "Thumnail_Small": "God/Shree/Shree.png",
           "is_From_Asset": false
         }
